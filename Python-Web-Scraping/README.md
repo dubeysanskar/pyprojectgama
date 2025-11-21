@@ -1,9 +1,5 @@
 # Python Web Scraping Tutorial: Step-By-Step
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=python-web-scraping-tutorial-github&transaction_id=102f49063ab94276ae8f116d224b67)
-
-[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
-
 ## Table of Contents
 
 - [Web Scraping in 5 Lines of Code](#Web-Scraping-in-5-Lines-of-Code)
